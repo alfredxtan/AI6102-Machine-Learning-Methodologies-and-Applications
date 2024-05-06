@@ -1,0 +1,1 @@
+This contains the codes and final report for our group project. This is based on the, [ICR - Identifying Age-Related Conditions Kaggle competition](https://www.kaggle.com/competitions/icr-identify-age-related-conditions/overview), where the dataset can also be downloaded.
